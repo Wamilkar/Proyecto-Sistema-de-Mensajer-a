@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatsAppClone</string>
+    <string name="prefs_file">com.g6.whatsappclone.PREFERENCE_FILE_KEY</string>
+</resources>
